@@ -1,0 +1,2 @@
+#!/bin/bashe
+gcc -S $CFILE -o ${CFILE%.*}.s
